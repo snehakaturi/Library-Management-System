@@ -1,0 +1,1 @@
+The Library Management System is a digital platform designed to manage book records, user details, and lending activities efficiently. It simplifies tasks like adding, issuing, and returning books with an easy-to-use interface.
